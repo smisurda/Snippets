@@ -1,3 +1,7 @@
+/**
+* A simple recommendation engine that builds association rules from the Apriori algorithm.
+* This was originally tested on the Netflix movie review dataset
+*/
 import java.util.*;
 import java.io.*;
 
